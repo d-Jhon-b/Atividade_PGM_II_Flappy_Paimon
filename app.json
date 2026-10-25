@@ -21,7 +21,7 @@
     },
     "web": {
       "output": "single",
-      "experiments": { "baseUrl": "/Atividade_PGM_II_Flappy_Paimon" },
+      "baseUrl": "/Atividade_PGM_II_Flappy_Paimon",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
@@ -40,7 +40,8 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
+      "baseUrl": "/Atividade_PGM_II_Flappy_Paimon"
     }
   }
 }
