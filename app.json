@@ -20,7 +20,7 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "web": { "output": "single" },
+      "output": "single",
       "experiments": { "baseUrl": "/Atividade_PGM_II_Flappy_Paimon" },
       "favicon": "./assets/images/favicon.png"
     },
